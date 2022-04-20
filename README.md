@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KristofferOhlund
 - 👀 I’m interested in programming in general and have mainly done Python scripts and automation for work. Currently working as data / bim / modell-coordinator
-at AFRY in Sweden.
-- 🌱 As of right now, i'm learning Git and Github.. 
+at Sweco in Sweden.
 - 💞️ I’m always looking for new ideas and ways to automate manual and repitative work.
 - 📫 How to reach me ...LinkedIn
 
